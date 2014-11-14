@@ -33,26 +33,13 @@ Features
 
 Installation
 ------------
-zionX can be downloaded at http://zionX.taobao.org/download/zionX.tar.gz . You can also checkout the latest source code from GitHub at https://github.com/alibaba/zionX
+zionX can be downloaded at https://github.com/zionwp/zionX/archive/master.zip . You can also checkout the latest source code from GitHub at https://github.com/zionwp/zionX
 
 To install zionX, just follow these three steps:
     $ ./configure
     $ make
     # make install
 
-By default, it will be installed to /usr/local/nginx. You can use the '--prefix' option to specify the root directory.
+By default, it will be installed to /etc/nginx/. You can use the '--prefix' option to specify the root directory.
 If you want to know all the 'configure' options, you should run './configure --help' for help.
-
-
-Documentation
--------------
-The homepage of zionX is at http://zionX.taobao.org
-You can access http://zionX.taobao.org/documentation.html for more information.
-
-
-Mailing lists
--------------
-Mailing lists are usually good places to ask questions. We highly recommend you subscribe to zionX's mailing lists below:
-http://code.taobao.org/mailman/listinfo/zionX (English)
-http://code.taobao.org/mailman/listinfo/zionX-cn (Chinese)
 
